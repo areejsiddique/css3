@@ -1,0 +1,523 @@
+body{
+    /* margin: 0px;
+    padding: 0px; */
+}
+#one{
+    width: 32%; 
+    padding-right: 30px;
+}
+.nav{
+    background-color:white;
+width: 1500px;
+/* height: 60px; */
+   position: sticky;
+    top: -2px;
+    /* right: 300px;  */
+   margin-left: 0px;
+   margin-top: 15px;
+  z-index: 1;
+box-shadow: 10px 10px 10px lightgray !important  ;
+
+
+}
+#bl{
+    margin-left: 100px;
+}
+#blank{
+    margin-left: 200px;
+}
+.bag{
+    margin-left: 20px;
+    margin-top: 8px;
+    position: relative;
+    bottom: 5px;
+   
+}
+.bt1{
+    border: 2px solid #D70F64 ;
+ background-color: white;
+    color: #D70F64;
+    border-radius: 10px; 
+width: 95px;
+height: 30px;
+    margin-right: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+
+}
+.bt1:hover{
+    border-radius: 6px;
+    background-color: rgb(255, 243, 243);
+    transform: scale(1.1);
+    transition: 10ms;
+}
+.bt2{
+   border: 1px solid #D70F64; 
+   background-color: #D70F64;
+   color: white;
+   border-radius: 10px;
+   width: 100px;
+   height: 30px;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 0px;
+   padding-bottom: 10px;
+
+   
+}
+.bt2:hover{
+    border-radius: 6px;
+
+    transform: scale(1.1);
+    transition: 10ms;
+}
+.first{
+    padding-left: 780px;
+  
+   z-index: 1000000px;
+}
+.abc{
+    position: relative;
+    bottom:400px;
+padding-left: 70px;
+}
+.ab{
+    width: 50% !important;
+    border-radius: 10px !important;
+    /* padding: 10px !important; */
+   
+}
+.abcc{
+    width: 100% !important;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+#p1{
+    z-index: 1000px !important;
+    font-size: 40px;
+}
+#p2{
+    font-size: 40px;
+    line-height: 5px;
+}
+#p3{
+    font-size: 40px;
+    position: relative;
+    bottom: 150px;
+    left: 70px;
+}
+.bt3{
+   
+    background-color: #D70F64;
+    color: white;
+    border: none;
+    border-radius: 12px ;
+}
+.bt3:hover{
+    border-radius: 6px;
+
+    transform: scale(1.1);
+    transition: 10ms;
+}
+#hey{
+    border-radius: 10px !important;
+}
+#img1{
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 540px;
+    object-fit: cover;
+    width: 100%;
+    position: relative;
+    bottom: 130px;
+
+}
+.box{
+    border: 1px;
+    box-shadow: 10px solid black ;
+
+background-color: white;
+padding: 30px;
+border-radius: 20px;
+width: 45%;
+position: relative;
+bottom: 340px;
+left: 60px;
+
+}
+.bt4{
+
+    background-color: #D70F64;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+ 
+}
+.p4{
+    font-size: 17px;
+}
+#h1{
+    position: relative;
+    bottom: 270px;
+    left: 60px;
+    font-size: 35px;
+}
+.pic1{
+    width: 280px;
+    height: 250px;
+    position: relative;
+    left: 60px;
+    border-radius: 20px;
+   
+  
+}
+.pic1:hover{
+    transform: scale(1.1);
+    transition: 10ms;
+}
+.bt5{
+    position: relative !important;
+    right: 210px !important;
+    top: 95px;
+    background-color: white !important;
+    color: black !important;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    border: none !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+.pic2{
+    width: 280px;
+    height: 250px;
+ position: relative;
+left: -20px;
+ border-radius: 20px;
+}
+.bt6{
+    position: relative !important;
+    right: 290px !important;
+    top: 95px !important; 
+    background-color: white !important;
+    color: black !important;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    border: none !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+.pic3{
+    width: 280px;
+    height: 250px;
+    position: relative;
+ left:-70px;
+ border-radius: 20px;
+}
+.bt7{
+    position: relative !important;
+   right: 340px !important;
+    top: 95px;
+    background-color: white !important;
+    color: black !important;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    border: none !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+.pic4{
+    width: 280px;
+    height: 250px;
+    position: relative;
+    bottom: 250px;
+ left: 1000px;
+ border-radius: 20px;
+ 
+}
+.bt8{
+    position: relative !important;
+left: 730px !important;
+   bottom: 155px;
+   background-color: white !important;
+   color: black !important;
+   border-radius: 10px !important;
+   padding: 10px !important;
+   border: none !important;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
+
+
+.mainpic{
+    padding: 10px;
+    position: relative;
+    bottom: 200px;
+    z-index: 1px !important;
+
+}
+.mainpic2{
+    padding: 10px;
+    position: relative;
+    bottom: 450px;
+    z-index: 1px !important;
+}
+.mainpic3{
+    padding: 10px;
+    position: relative;
+    bottom: 700px;
+    z-index: 1px !important;
+
+}
+.mainpic4{
+    padding: 10px;
+    position: relative;
+    bottom: 950px;
+
+}
+.mainpic5{
+    padding: 10px;
+    position: relative;
+    bottom: 1200px;
+
+}
+.mainpic6{
+    padding: 10px;
+    position: relative;
+    bottom: 1450px;
+
+}
+.mainpic7{
+    padding: 10px;
+    position: relative;
+    bottom: 1700px;
+
+}
+.mainpic8{
+    padding: 10px;
+    position: relative;
+    bottom: 1950px;
+}
+.h2{
+    position: relative;
+    bottom: 1900px;
+    left: 80px;
+    font-size: 45px;
+}
+
+
+.pic2:hover{
+    transform: scale(1.1);
+    transition: 10ms;
+}
+.pic3:hover{
+    transform: scale(1.1);
+    transition: 10ms;
+}
+.pic4:hover{
+    transform: scale(1.1);
+    transition: 10ms;
+}
+.box2{
+    width: 90%;
+    height: 370px;
+    border-radius: 20px;
+    border: 1px solid #D70F64;
+    background-color: #D70F64;
+    color: white;
+    position: relative;
+    bottom: 1870px;
+    left: 80px;
+}
+.p5{
+    position: relative;
+    left: 40px;
+    font-size: 25px;
+}
+
+.code{
+    position: relative;
+    left: 40px;
+    border: 1px solid white; 
+    padding: 10px;
+    border-radius: 10px;
+}
+.p6{
+    position: relative;
+    bottom: 100px;
+    left: 160px;
+    font-size: 20px;
+    line-height: 13px;
+}
+.mob{
+    height: 550px;
+    position: relative;
+    bottom: 450px;
+    left: 600px;
+}
+.bt9{
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 350px;
+    right: 670px;
+    margin: 10px;
+    font-size: 12px;
+    border-radius: 10px;
+    width: 150px;
+    height: 54px;
+    border:0.5px solid white;
+    
+}
+.bt10{
+    background-color: black;
+    color: white;
+    position: relative;
+   bottom: 648px;
+   left: 380px;
+    margin: 10px;
+    font-size: 12px;
+    border-radius: 10px;
+    width: 150px;
+    height: 54px;
+    border:0.5px solid white;
+    
+
+}
+.p7{
+font-size: 18px;
+text-align: right;
+line-height: 20px;
+}
+.btimg{
+    position: relative;
+    bottom: 48px;
+    right: 50px;
+}
+.btimg1{
+    position: relative;
+    bottom: 35px;
+    right: 35px;
+}
+.btimg2{
+    position: relative;
+    bottom: 35px;
+    right: 45px; 
+}
+#p5{
+    font-size: 40px;
+    position: relative;
+    bottom: 1800px;
+    left: 80px;
+}
+#girl{
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 440px;
+    object-fit: cover;
+    width: 1340px;
+    position: relative;
+    bottom: 1800px;
+
+}
+.box4{
+    border: 1px;
+    box-shadow: 10px solid black ;
+
+background-color: white;
+padding: 30px;
+border-radius: 20px;
+width: 45%;
+position: relative;
+bottom: 1920px;
+left: 60px;
+
+}
+.text{
+    width: 90%;
+    position: relative;
+    bottom: 1820px;
+    left: 100px;
+}
+.tick{
+    list-style-type: none;
+}
+.foot{
+    word-spacing: 10px;
+    color: black;
+    opacity: 0.4;
+}
+.footer{
+    position: relative;
+    bottom: 1650px;
+}
+.food{
+    margin-left: 90px;
+}
+.food1{
+    margin-right: 90px !important;
+}
+.all{
+    height: 2000px;
+   
+}
+.foot:hover{
+    color: #D70F64 !important;
+}
+.pink:hover{
+    color: #D70F64 !important;   
+}
+.bt{
+    margin-left: 45px;
+    position: relative;
+    bottom: 5px;
+   
+    background-color: white !important;
+    color: black !important;
+    border: none !important;
+    font-size: 15px !important;
+}
+.world{
+    position: relative;
+    bottom: 35px;
+    left: 30px;
+}
+/* login page */
+.mb-5{
+    text-align: left !important;
+}
+.p8{
+    text-align: left !important;
+    position: relative;
+    bottom: 35px;
+}
+.bold{
+    color:#D70F64;
+    font-size: 15px;
+}
+.bt12{
+    width: 100% !important;
+    padding: 8px !important;
+    border-radius:5px !important;
+    font-size: 15px !important;
+ 
+    /* height: 40px !important; */
+}
+.bt13{
+    width: 100% !important;
+    padding: 13px !important;
+    border-radius:10px !important;
+    font-size: 15px !important;
+}
+.logbox{
+    height: 500px !important;
+}
+.icon{
+    position: relative;
+    right: 40px;
+    top: 5px;
+   
+}
